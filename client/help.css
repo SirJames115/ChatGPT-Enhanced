@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Alegreya Sans", sans-serif;
+}
+
+body {
+  background: #343541;
+  color: aliceblue;
+}
+
+.help-head {
+  margin: 30px 0px;
+  text-transform: uppercase;
+}
+
+.help {
+  margin: 15% 20% 30%;
+}
+
+.remark {
+  margin: 30px 0px;
+}
